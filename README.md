@@ -16,3 +16,7 @@ Install dependencies. Make sure you already have nodejs & npm installed in your 
 Run it
 
 <pre><code>$ npm start # or yarn start</code></pre>
+
+## Screnshot
+
+![](todolist/todo.PNG)
