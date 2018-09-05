@@ -7,12 +7,12 @@ Check the demo hosted on Firebase .
 
 First clone this repository.
 
-> $ git clone https://github.com/kabirbaidhya/react-todo-app.git
+<pre><code>$ git clone https://github.com/rakeshrenukut/ToDo-ReactJSApp.git</code></pre>
 
 Install dependencies. Make sure you already have nodejs & npm installed in your system.
 
-> $ npm install # or yarn
+<pre><code>$ npm install # or yarn</code></pre>
 
 Run it
 
-> $ npm start # or yarn start
+<pre><code>$ npm start # or yarn start</code></pre>
