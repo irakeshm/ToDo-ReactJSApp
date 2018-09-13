@@ -1,13 +1,13 @@
 ## React JS Todo App
 This is a sample react todo app, This will allow you to create your Todo Task List and Delete once its completed. 
 
-Check the demo hosted on https://rakeshrenukut.github.io/ToDo-ReactJSApp/ .
+Check the demo hosted on https://irakeshm.github.io/ToDo-ReactJSApp/ .
 
 ## Instructions
 
 First clone this repository.
 
-<pre><code>$ git clone https://github.com/rakeshrenukut/ToDo-ReactJSApp.git</code></pre>
+<pre><code>$ git clone https://github.com/irakeshm/ToDo-ReactJSApp.git</code></pre>
 
 Install dependencies. Make sure you already have nodejs & npm installed in your system.
 
