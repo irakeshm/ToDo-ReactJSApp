@@ -23,7 +23,6 @@ class TodoItems extends Component {
   render() {
     var todoEntries = this.props.entries;
     var listeItems = todoEntries.map(this.createTasks);
-
     return (
       <ul className="theList">
         <FlipMove duration={250} easing="ease-out">
